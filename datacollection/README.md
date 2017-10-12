@@ -4,8 +4,8 @@ Data Collection for PostgreSQL
 -----
 #### Variables
 
-e.g.
-1. Fork the repository on Github
-2. Create a named feature branch (like `add_component_x`)
-3. Write your change
-4. Write tests for
+1.Host = client hostname
+2.Port= PORT 
+3.User=USERNAME
+4.Client= Client
+
